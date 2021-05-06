@@ -1,3 +1,7 @@
+---
+# Due to the suspension/postpone of IPL 2021, the contest is also postponed
+---
+
 # CRICKET AND CODING
 
 [Contest Link](https://onlinedegree.iitm.ac.in/contest/index.html)
