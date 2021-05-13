@@ -1,6 +1,7 @@
 ---
 # Due to the suspension/postpone of IPL 2021, the contest is also postponed
 ---
+> This repo will be unarchived when the contest resumes
 
 # CRICKET AND CODING
 
